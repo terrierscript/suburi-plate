@@ -7,3 +7,7 @@ $ npm install
 ```
 
 ## 起動
+
+```
+$ npm start
+```
